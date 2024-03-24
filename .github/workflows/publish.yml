@@ -14,5 +14,5 @@ jobs:
         with:
           deploy_key: ${{ secrets.ACTIONS_DEPLOY_KEY }}
           files: |
-            examples/main.tex
+            examples/paper.tex
           handouts: |
